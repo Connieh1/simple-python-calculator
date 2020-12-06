@@ -32,3 +32,5 @@ elif choice=="3":
     print(num_1, "*", num_2, "=", multiply(num_1, num_2))
 elif choice=="4":
     print(num_1, "/", num_2, "=", divide(num_1, num_2))
+else:
+    print("Invalid Input")
