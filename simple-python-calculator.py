@@ -1,7 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  6 09:10:29 2020
 
-@author: constancehyman
-"""
+
+def add(a,b):
+    return(a+b)
+
+def subtract(a,b):
+    return(a-b)
+
+def multiply(a,b):
+    return(a*b)
+
+def divide(a,b):
+    return(a/b)
+
