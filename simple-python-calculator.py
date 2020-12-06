@@ -26,4 +26,5 @@ num_2=int(input("Enter second number: "))
 
 if choice=="1":
     print(num_1, "+", num_2, "=", add(num_1, num_2))
-
+elif choice=="2":
+    print(num_1, "-", num_2, "=", subtract(num_1, num_2))
